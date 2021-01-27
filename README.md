@@ -1,3 +1,3 @@
 # hello-word
-hello
-15 year old learning to code 
+hello World, I'm a 15 year old mexican learning to code.
+##Jeje
